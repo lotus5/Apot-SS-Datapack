@@ -1,0 +1,19 @@
+overworld
+	iron
+
+
+Iron
+Gold
+Diamond
+Netherite
+Runic - 
+gobber
+gobber nether
+gobber end
+
+special weapons
+
+Apotheosis
+Sword
+heavy_weapon
+(maybe trident)
