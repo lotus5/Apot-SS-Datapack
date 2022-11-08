@@ -1,4 +1,4 @@
-### Features
+### [SimplySwords](https://github.com/Shadows-of-Fire/Apotheosis/tree/1.19/src/main/resources/data/apotheosis)
 
 **Iron > Netherite variants of the following weapons**
 
