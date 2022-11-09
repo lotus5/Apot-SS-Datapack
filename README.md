@@ -19,20 +19,20 @@
 
 **Ore weapon variants**
 
-Iron
-Gold
-Diamond
-Netherite
-Runic - netherite upgrade
-gobber
-gobber nether
-gobber end
+-	Iron
+-	Gold
+-	Diamond
+-	Netherite
+-	Runic - netherite upgrade
+-	gobber
+-	gobber nether
+-	gobber end
 
 **Apotheosis Weapon Category**
 
-Sword
-heavy_weapon
-(maybe trident)
+-	SWORD
+-	HEAVY_WEAPON
+-	TRIDENT
 
 **Structure**
 
