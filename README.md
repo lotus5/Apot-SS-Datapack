@@ -1,6 +1,6 @@
 ### [SimplySwords](https://github.com/Shadows-of-Fire/Apotheosis/tree/1.19/src/main/resources/data/apotheosis)
 
-**Iron > Netherite variants of the following weapons**
+**Iron > Netherite > Gobber variants of the following weapons**
 
 -   Longsword
 -   Twinblade
@@ -17,20 +17,32 @@
 -   Chakram
 -   Scythe
 
-**Magic and Unique weapon variants**
+**Ore weapon variants**
 
-Uncraftable weapons with unique effects
+Iron
+Gold
+Diamond
+Netherite
+Runic - netherite upgrade
+gobber
+gobber nether
+gobber end
 
-**Loot Tables**
+**Apotheosis Weapon Category**
 
-Items from Simply Swords will naturally spawn in chests (except villages)
+Sword
+heavy_weapon
+(maybe trident)
 
-**Configurable**
+**Structure**
 
-Automatically generates config files  
-Customise loot drop rates
-
-Customise weapon effects
+	if you are adding brand new files, your structure should be similar to this
+	<zip>
+	--pack.mcmeta 
+	--data
+	----<your datapack's name>
+	------affix_loot_entries
+	--------new_entry.json
 
 **Better Combat Support** (recommended)
 
